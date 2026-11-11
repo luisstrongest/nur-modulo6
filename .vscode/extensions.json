@@ -1,0 +1,7 @@
+{
+	"recommendations": [
+		"sonarsource.sonarlint-vscode",
+		"dbaeumer.vscode-eslint",
+		"editorconfig.editorconfig"
+	]
+}
